@@ -9,3 +9,4 @@ The dashboard below was created using Tableau and we attempt to answer the follo
 
 ![US Gun Violence](USGunViolence.png)
 
+### From this dashboard we recommend that federal police funding be prioritized in Chicago Illinois as they are the leading city for Gun Fatalities by far in the last 7 years
